@@ -25,6 +25,10 @@ style1.css
 Assets/
 ```
 
+## Output Snapshot
+
+![Spotify Clone output snapshot](Assets/output-snapshot.png)
+
 ## How to Run
 
 1. Open `index1.html` in a browser.
