@@ -27,7 +27,7 @@ Assets/
 
 ## Output Snapshot
 
-![Spotify Clone output snapshot](Assets/output-snapshot.png)
+![Spotify Clone output snapshot](Assets/output.png)
 
 ## How to Run
 
